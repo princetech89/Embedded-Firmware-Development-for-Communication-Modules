@@ -1,0 +1,7 @@
+{
+  "name": "FirmwarePro - Embedded Systems Hub",
+  "description": "A high-end professional dashboard for embedded firmware developers specializing in communication modules, featuring logic analyzer visualization and AI-powered debugging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
